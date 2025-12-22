@@ -1,4 +1,7 @@
 # d2r-reimagined-mod
+
+# proofreading german translation within item-names.json only
+
 The source code for the Diablo II Mod Reimagined.
 
 Found on nexus mods here: https://www.nexusmods.com/diablo2resurrected/mods/503
