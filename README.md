@@ -1,1 +1,1 @@
-#proofreading german translation within item-names.json only
+proofreading german translation within item-names.json only
