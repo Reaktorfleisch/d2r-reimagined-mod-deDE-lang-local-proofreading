@@ -29329,7 +29329,7 @@
         "Key": "Corpseflayer",
         "enUS": "Corpseflayer",
         "zhTW": "剝尸者",
-        "deDE": "Leichenschäler", //CHECK
+        "deDE": "Leichenschäler", 
         "esES": "Matacadáveres",
         "frFR": "Tueur de cadavres",
         "itIT": "Massacratore di cadaveri",
@@ -29465,7 +29465,7 @@
         "Key": "Silent Shank",
         "enUS": "Silent Shank",
         "zhTW": "無聲之柄",
-        "deDE": "Stiller Dolch", //CHECK
+        "deDE": "Stiller Dolch",
         "esES": "Vástago silencioso",
         "frFR": "Tige silencieuse",
         "itIT": "Gambo silenzioso",
@@ -29992,7 +29992,7 @@
         "Key": "Russetfire",
         "enUS": "Russetfire",
         "zhTW": "赤褐之火",
-        "deDE": "Rostfeuer", //CHECK
+        "deDE": "Rostfeuer", 
         "esES": "Russetfire",
         "frFR": "Feu de roussette",
         "itIT": "Fuoco di ruggine",
@@ -30009,7 +30009,7 @@
         "Key": "Stinkshroud",
         "enUS": "Stinkshroud",
         "zhTW": "惡臭裹尸布",
-        "deDE": "Stinkhülle", //CHECK 
+        "deDE": "Stinkhülle", 
         "esES": "Stinkshroud",
         "frFR": "La paille de fer",
         "itIT": "Sindone puzzolente",
@@ -30434,7 +30434,7 @@
         "Key": "Goreflood",
         "enUS": "Goreflood",
         "zhTW": "血腥洪災",
-        "deDE": "Blutstrom", //CHECK
+        "deDE": "Blutstrom", 
         "esES": "Goreflood",
         "frFR": "Goreflood",
         "itIT": "Goreflood",
@@ -30485,7 +30485,7 @@
         "Key": "Gracehunter",
         "enUS": "Gracehunter",
         "zhTW": "優雅猎手",
-        "deDE": "Grazienjäger", //CHECK
+        "deDE": "Grazienjäger",
         "esES": "Gracehunter",
         "frFR": "Chasseur de primes",
         "itIT": "Cacciatore di grazia",
@@ -30570,7 +30570,7 @@
         "Key": "Curseweaver",
         "enUS": "Curseweaver",
         "zhTW": "織咒者",
-        "deDE": "Verdammnisweber", //CHECK
+        "deDE": "Verflucher", 
         "esES": "Curseweaver",
         "frFR": "Tisseur de malédiction",
         "itIT": "Maledicente",
@@ -30706,7 +30706,7 @@
         "Key": "Stunhummer",
         "enUS": "Stunhummer",
         "zhTW": "震地蜂鳴",
-        "deDE": "Schädelbrummen", //CHECK
+        "deDE": "Schädelbrummen",
         "esES": "Langosta aturdidora",
         "frFR": "Homard étourdissant",
         "itIT": "Aragosta stordente",
@@ -30893,7 +30893,7 @@
         "Key": "Zenkiller",
         "enUS": "Zenkiller",
         "zhTW": "灭禪者",
-        "deDE": "Zenkiller", //CHECK
+        "deDE": "Zenkiller",
         "esES": "Zenkiller",
         "frFR": "Zenkiller",
         "itIT": "Zenkiller",
@@ -32508,7 +32508,7 @@
         "Key": "Blisterpain",
         "enUS": "Blisterpain",
         "zhTW": "爆裂之痛",
-        "deDE": "Blasenschmerz", //CHECK
+        "deDE": "Blasenschmerz",
         "esES": "Dolor de ampollas",
         "frFR": "Douleur vésiculeuse",
         "itIT": "Dolore da vescica",
